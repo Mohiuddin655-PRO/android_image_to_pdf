@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/bg_action_button.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/bg_iage_choosing.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/bg_image_choosing.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/bg_rounded_50dp.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/bg_secondary_button.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/ic_add_photos.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/ic_add_photos_white.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/ic_camera_solid.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/ic_camera_solid_white.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/ic_photo_mode_bold.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/drawable/ic_photo_mode_bold_white.xml" value="0.118" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/layout/activity_edit_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/layout/item_choosable_photo.xml" value="0.203125" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/layout/item_choosing_photo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/layout/item_choosing_photo2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/app/src/main/res/menu/menu_choose_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Md. Mohi-Uddin/AndroidStudioProjects/workplace/ImageToPdf/utils/src/main/res/drawable/bg_primary_button.xml" value="0.118" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

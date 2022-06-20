@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_Dialog">
+        <item name="colorPrimary">@color/base_primary</item>
+        <item name="colorPrimaryDark">@color/base_primary</item>
+        <item name="colorAccent">@color/base_primary</item>
+    </style>
+
+    <style name="Theme_Dialog.Style.BottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/Theme_Dialog.Style.BottomSheet.Rounded</item>
+    </style>
+
+    <style name="Theme_Dialog.Style.BottomSheet.Rounded" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/bg_rounded_bottom_sheet</item>
+    </style>
+
+</resources>

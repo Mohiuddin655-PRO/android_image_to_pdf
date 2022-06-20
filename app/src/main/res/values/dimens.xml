@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shape_radius_secondary">25dp</dimen>
+    <dimen name="radius_image_choosing">16dp</dimen>
+</resources>

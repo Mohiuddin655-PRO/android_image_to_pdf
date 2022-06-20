@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image to PDF</string>
+    <string name="choose_photo">Choose photo</string>
+    <string name="convert_to_pdf">Convert to PDF</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_enter_your_information">Enter your information</string>
+    <string name="hint_header">Header</string>
+
+</resources>
